@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c,o as n}from"./index-Coelio5m.js";const o={};function r(s,t){return n(),c("div",null,"this is english view")}const a=e(o,[["render",r]]);export{a as default};
